@@ -1,3 +1,3 @@
 Windows console app
 
-Allows text entry, then finds all possible distinct permutation of the entered text.
+Allows text entry, then finds all possible distinct permutations of the entered text.
